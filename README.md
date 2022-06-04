@@ -3,14 +3,12 @@
 
 A brief description of what this project does and who it's for
 
-
 To develop a **Spring-Boot** java web application to perform **CRUD** operations using **Spring-MVC, Spring-JPA, Hibernate , MySQL , JSP.**
 
 This project is for those who want to learn the **CRUD** operations with **Spring-Boot.** 
 (Beginner / Intermediate ).
 
 For login i have used dummy username and password as "root".
-
 
 
 ## Project Requirements
@@ -44,11 +42,22 @@ Install MySQL Shell & Workbench
 ```bash
   https://dev.mysql.com/downloads/
 ```
+
+
 ## Java Stack
 
 **Client:** JSP , Bootstrap 4.
 
 **Server:** Spring-Boot , Java , Hibernate , MySQL , Spring Data JPA.
+
+
+## Instructions
+
+1) Download the [project requirements](https://github.com/ScaryPsy5/Spring-Boot-CRUD-Spring-MVC-Spring-JPA-Hibernate-MySQL-JSP/blob/main/README.md#project-requirements).
+
+2) Change the MySQL username and password from root to your username and password inside application.properties file.
+
+3) Create a database named sms in MySQL Workbench.
 
 
 ## Demo
@@ -62,6 +71,7 @@ Install MySQL Shell & Workbench
 
 
 ## License
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/) 
 
 
